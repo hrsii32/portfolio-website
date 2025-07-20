@@ -455,6 +455,9 @@ p {
   font-size: 1.4rem; 
   font-weight: 400; 
 }
+.underline-text:hover {
+  text-decoration: underline;
+}
 
 /* =====================================================
    Footer
